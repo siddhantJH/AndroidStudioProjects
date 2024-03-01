@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Delhi_Open_Transit_App_For_Tourists" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
